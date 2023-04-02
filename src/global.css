@@ -1,0 +1,30 @@
+:root {
+    /* colors */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    -webkit-font-smoothing: antialised;
+}
+
+body,
+input,
+textarea,
+button {
+    /* 
+    FONT CONFIG
+    
+    font-family: 'Font', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    */
+}
